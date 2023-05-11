@@ -29,3 +29,6 @@ Output: [4,2,0,7,4]
 - `encoded.length == n - 1`
 - `0 <= encoded[i] <= 10^5`
 - `0 <= first <= 10^5`
+
+
+# [Solution](https://github.com/vjpatel077/LeetCode/blob/master/Array/04-05-2023/Sol2.java)
