@@ -35,3 +35,6 @@ The absolute difference between the element sum and digit sum is |10 - 10| = 0.
 
 - `1 <= nums.length <= 2000`
 - `1 <= nums[i] <= 2000`
+
+
+# [Solution](https://github.com/vjpatel077/LeetCode/blob/master/Array/04-05-2023/Sol1.java)
