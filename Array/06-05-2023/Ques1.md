@@ -29,3 +29,6 @@ Only 1771 contains an even number of digits.
 
 - `1 <= nums.length <= 500`
 - `1 <= nums[i] <= 10^5`
+
+
+# [Solution](https://github.com/vjpatel077/LeetCode/blob/master/Array/06-05-2023/Sol1.java)

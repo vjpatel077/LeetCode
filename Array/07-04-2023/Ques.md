@@ -34,3 +34,6 @@ The array answer is [|0 - 0|] = [0].
 
 - `1 <= nums.length <= 1000`
 - `1 <= nums[i] <= 10^5`
+
+
+# [Solution](https://github.com/vjpatel077/LeetCode/blob/master/Array/07-04-2023/Sol1.java)

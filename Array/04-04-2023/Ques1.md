@@ -29,3 +29,6 @@ Output: 1
 - `n == height.length`
 - `2 <= n <= 10^5`
 - `0 <= height[i] <= 10^4`
+
+
+# [Solution](https://github.com/vjpatel077/LeetCode/blob/master/Array/04-04-2023/Sol1.java)

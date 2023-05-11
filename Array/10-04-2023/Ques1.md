@@ -41,3 +41,6 @@ Output: [true,false,true]
 - `2 <= n <= 100`
 - `1 <= candies[i] <= 100`
 - `1 <= extraCandies <= 50`
+
+
+# [Solution](https://github.com/vjpatel077/LeetCode/blob/master/Array/10-04-2023/Sol1.java)

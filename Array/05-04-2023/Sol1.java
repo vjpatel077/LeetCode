@@ -1,3 +1,4 @@
+//my solution
 class Solution {
     public int removeDuplicates(int[] nums) {
         int k=0;

@@ -34,3 +34,6 @@ In this example, the second and third sentences (underlined) have the same numbe
 - `sentences[i]` consists only of lowercase English letters and `' '` only.
 - `sentences[i]` does not have leading or trailing spaces.
 - All the words in `sentences[i]` are separated by a single space.
+
+
+# [Solution](https://github.com/vjpatel077/LeetCode/blob/master/Array/02-05-2023/Sol2.java)

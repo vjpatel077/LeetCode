@@ -52,3 +52,6 @@ It does not matter what you leave beyond the returned k (hence they are undersco
 - `0 <= nums.length <= 100`
 - `0 <= nums[i] <= 50`
 - `0 <= val <= 100`
+
+
+# [Solution](https://github.com/vjpatel077/LeetCode/blob/master/Array/08-04-2023/Sol1.java)
