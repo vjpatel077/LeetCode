@@ -41,3 +41,6 @@ The greatest common divisor of 3 and 3 is 3.
 
 - `2 <= nums.length <= 1000`
 - `1 <= nums[i] <= 1000`
+
+
+# [Solution](https://github.com/vjpatel077/LeetCode/blob/master/Array/06-05-2023/Sol2.java)
