@@ -1,1 +1,10 @@
-
+This folder contains all the Array questions that I've solved on LeetCode.
+1. [Median of Two Sorted Arrays](https://github.com/vjpatel077/LeetCode/blob/master/Array/03-04-2023/Ques1.md)
+2. [Container With Most Water](https://github.com/vjpatel077/LeetCode/blob/master/Array/04-04-2023/Ques1.md)
+3. [Remove Duplicates from Sorted Array](https://github.com/vjpatel077/LeetCode/blob/master/Array/05-04-2023/Ques1.md)
+4. [Final Value of Variable After Performing Operations](https://github.com/vjpatel077/LeetCode/blob/master/Array/05-04-2023/Ques2.md)
+5. [Spiral Matrix](https://github.com/vjpatel077/LeetCode/blob/master/Array/06-04-2023/Ques1.md)
+6. [Left and Right Sum Differences](https://github.com/vjpatel077/LeetCode/blob/master/Array/07-04-2023/Ques.md)
+7. [Remove Element](https://github.com/vjpatel077/LeetCode/blob/master/Array/08-04-2023/Ques1.md)
+8. [Running Sum of 1d Array](https://github.com/vjpatel077/LeetCode/blob/master/Array/09-04-2023/Ques1.md)
+9. [Kids With the Greatest Number of Candies](https://github.com/vjpatel077/LeetCode/blob/master/Array/10-04-2023/Ques1.md)
