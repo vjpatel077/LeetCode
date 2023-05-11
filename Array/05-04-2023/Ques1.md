@@ -48,3 +48,5 @@ It does not matter what you leave beyond the returned k (hence they are undersco
 - `1 <= nums.length <= 3 * 10^4`
 - `-100 <= nums[i] <= 100`
 - `nums` is sorted in **non-decreasing**  order.
+
+# [Solution](https://github.com/vjpatel077/LeetCode/blob/master/Array/05-04-2023/Sol1.java)
