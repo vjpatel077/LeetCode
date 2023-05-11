@@ -41,3 +41,5 @@ Output: 17
 - `n ==accounts[i].length`
 - `1 <= m, n <= 50`
 - `1 <= accounts[i][j] <= 100`
+
+# [Solution](https://github.com/vjpatel077/LeetCode/blob/master/Array/01-05-2023/Sol2.java)
