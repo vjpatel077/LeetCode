@@ -35,3 +35,6 @@ Output: [0,0,0,0]
 
 - `2 <= nums.length <= 500`
 - `0 <= nums[i] <= 100`
+
+
+# [Solution](https://github.com/vjpatel077/LeetCode/blob/master/Array/03-05-2023/Sol1.java)
