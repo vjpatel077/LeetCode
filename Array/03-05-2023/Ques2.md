@@ -23,10 +23,14 @@ Explanation: The answer for each box is as follows:
 
 ```
 Input: boxes = "001011"
-Output: [11,8,5,4,3,4]```
+Output: [11,8,5,4,3,4]
+```
 
 **Constraints:** 
 
 - `n == boxes.length`
 - `1 <= n <= 2000`
 - `boxes[i]` is either `'0'` or `'1'`.
+
+
+# [Solution](https://github.com/vjpatel077/LeetCode/blob/master/Array/03-05-2023/Sol2.java)
