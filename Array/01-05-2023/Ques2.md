@@ -26,7 +26,8 @@ Explanation
 1st customer has wealth = 6
 2nd customer has wealth = 10 
 3rd customer has wealth = 8
-The 2nd customer is the richest with a wealth of 10.```
+The 2nd customer is the richest with a wealth of 10.
+```
 
 **Example 3:** 
 
@@ -41,3 +42,6 @@ Output: 17
 - `n ==accounts[i].length`
 - `1 <= m, n <= 50`
 - `1 <= accounts[i][j] <= 100`
+
+
+# [Solution](https://github.com/vjpatel077/LeetCode/blob/master/Array/01-05-2023/Sol2.java)
