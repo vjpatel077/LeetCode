@@ -31,3 +31,6 @@ Explanation: Numbers in the range `[1, 9]` that are divisible by `3`, `5`, or `7
 **Constraints:** 
 
 - `1 <= n <= 10^3`
+
+
+# [Solution](https://github.com/vjpatel077/LeetCode/blob/master/Array/05-05-2023/Sol2.java)
