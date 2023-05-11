@@ -1,3 +1,4 @@
+//my solution
 class Solution {
     public int[] leftRigthDifference(int[] nums) {
         int n=nums.length;
