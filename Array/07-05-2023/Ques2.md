@@ -40,10 +40,5 @@ It can be proven, that 11 is the maximum answer that we can achieve.
 - `1 <= nums[i] <= 100`
 - `1 <= k <= 100`
 
-<style type="text/css">.spoilerbutton {display:block; border:dashed; padding: 0px 0px; margin:10px 0px; font-size:150%; font-weight: bold; color:#000000; background-color:cyan; outline:0; 
-}
-.spoiler {overflow:hidden;}
-.spoiler > div {-webkit-transition: all 0s ease;-moz-transition: margin 0s ease;-o-transition: all 0s ease;transition: margin 0s ease;}
-.spoilerbutton[value="Show Message"] + .spoiler > div {margin-top:-500%;}
-.spoilerbutton[value="Hide Message"] + .spoiler {padding:5px;}
-</style>
+
+# [Solution](https://github.com/vjpatel077/LeetCode/blob/master/Array/07-05-2023/Sol2.java)
