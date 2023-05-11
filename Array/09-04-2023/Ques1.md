@@ -29,3 +29,6 @@ Output: [3,4,6,16,17]
 
 - `1 <= nums.length <= 1000`
 - `-10^6<= nums[i] <=10^6`
+
+
+# [Solution](https://github.com/vjpatel077/LeetCode/blob/master/Array/09-04-2023/Sol1.java)
