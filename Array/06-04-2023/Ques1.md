@@ -24,3 +24,6 @@ Output: [1,2,3,4,8,12,11,10,9,5,6,7]
 - `n == matrix[i].length`
 - `1 <= m, n <= 10`
 - `-100 <= matrix[i][j] <= 100`
+
+
+# [Solution](https://github.com/vjpatel077/LeetCode/blob/master/Array/06-04-2023/Sol1.java)
