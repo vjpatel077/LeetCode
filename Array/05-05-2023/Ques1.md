@@ -25,7 +25,8 @@ Output: "What is the solution"
 Explanation:
 The words in s are ["What", "is" "the", "solution", "to", "this", "problem"].
 The first 4 words are ["What", "is", "the", "solution"].
-Hence, you should return "What is the solution".```
+Hence, you should return "What is the solution".
+```
 
 **Example 3:** 
 
@@ -41,3 +42,6 @@ Output: "chopper is not a tanuki"
 - `s` consist of only lowercase and uppercase English letters and spaces.
 - The words in `s` are separated by a single space.
 - There are no leading or trailing spaces.
+
+
+#[Solution](https://github.com/vjpatel077/LeetCode/blob/master/Array/05-05-2023/Sol1.java)
