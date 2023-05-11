@@ -40,3 +40,6 @@ queries[0] is green, queries[1] is red, queries[2] is blue, and queries[3] is pu
 - All coordinates are integers.
 
 **Follow up:**  Could you find the answer for each query in better complexity than `O(n)`?
+
+
+# [Solution](https://github.com/vjpatel077/LeetCode/blob/master/Array/02-05-2023/Sol1.java)
