@@ -31,4 +31,4 @@ Output: 1
 - `0 <= height[i] <= 10^4`
 
 
-# [Solution](Array/04-04-2023/Sol1.java)
+# [Solution](Sol1.java)
