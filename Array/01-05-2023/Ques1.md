@@ -31,3 +31,6 @@ Output: 0
 
 - `1 <= nums.length <= 100`
 - `1 <= nums[i] <= 100`
+
+
+# [Solution](https://github.com/vjpatel077/LeetCode/blob/master/Array/01-05-2023/Sol1.java)
