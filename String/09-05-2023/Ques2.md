@@ -23,3 +23,6 @@ Output: 0
 - `1 <=jewels.length, stones.length <= 50`
 - `jewels` and `stones` consist of only English letters.
 - All the characters of`jewels` are **unique** .
+
+
+# [Solution](https://github.com/vjpatel077/LeetCode/blob/master/String/09-05-2023/Sol2.java)

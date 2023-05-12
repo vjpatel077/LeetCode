@@ -34,3 +34,7 @@ Output: "alGalooG"
 
 - `1 <= command.length <= 100`
 - `command` consists of `"G"`, `"()"`, and/or `"(al)"` in some order.
+
+
+
+# [Solution](https://github.com/vjpatel077/LeetCode/blob/master/String/11-05-2023/Sol1.java)

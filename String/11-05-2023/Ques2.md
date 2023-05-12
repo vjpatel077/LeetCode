@@ -31,3 +31,7 @@ Output: 9
 - `1 <= n.length <= 10^5`
 - `n` consists of only digits.
 - `n` does not contain any leading zeros and represents a positive integer.
+
+
+
+# [Solution](https://github.com/vjpatel077/LeetCode/blob/master/String/11-05-2023/Sol2.java)
